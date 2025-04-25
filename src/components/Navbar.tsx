@@ -18,7 +18,7 @@ const Navbar = () => {
         <div className="flex justify-between h-16 items-center">
           <div className="flex-shrink-0">
             <span className="text-2xl font-bold bg-gradient-to-r from-indigo-600 to-violet-600 dark:from-purple-400 dark:to-violet-400 text-transparent bg-clip-text">
-              SaaSly
+              SaaSily
             </span>
           </div>
 
